@@ -1,4 +1,4 @@
-# LU Decomposition 
+# EXNO:5- LU Decomposition 
 
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
